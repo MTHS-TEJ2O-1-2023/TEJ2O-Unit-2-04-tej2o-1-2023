@@ -2,7 +2,7 @@
  *
  * Created by: Mr. Coxall
  * Created on: Sep 2020
- * This program ...
+ * This program simulates a 6 sided dice.
 */
 
 basic.clearScreen()
