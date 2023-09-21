@@ -5,4 +5,7 @@
  * This program ...
 */
 
+basic.clearScreen()
+basic.pause(1000)
+
 basic.showString('Hello, World!')
